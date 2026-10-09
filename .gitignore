@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+tarti_ayar.json
+*_yedek.py
+*.log
+*.db
+*.sqlite3
